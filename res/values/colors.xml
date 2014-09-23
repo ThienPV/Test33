@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2012 Jake Wharton
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <color name="vpi_background_holo_dark">#ff000000</color>
+    <color name="vpi_background_holo_light">#fff3f3f3</color>
+    <color name="vpi_bright_foreground_holo_dark">@color/vpi_background_holo_light</color>
+    <color name="vpi_bright_foreground_holo_light">@color/vpi_background_holo_dark</color>
+    <color name="vpi_bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi_bright_foreground_inverse_holo_dark">@color/vpi_bright_foreground_holo_light</color>
+    <color name="vpi_bright_foreground_inverse_holo_light">@color/vpi_bright_foreground_holo_dark</color>
+    <color name="sm_menulist_unselect_bg">#2c2c2c</color>
+    <color name="sm_menulist_selected_bg">#2c2c2c</color>
+    <color name="text_xam">#999999</color>
+    <color name="text_menu">#00a1e4</color>
+    <color name="text_menu_xam">#666666</color>
+    <color name="text_trang">#ffffff</color>
+    <color name="bg_home_gallery">#1e1e1e</color>
+    <color name="bg_list">#343434</color>
+    <color name="bg_film">#181818</color>
+    <!-- ////////////////////// -->
+    <color name="banner_bg_color">#333333</color>
+    <color name="banner_text_color">#ffffff</color>
+    <color name="text_black_color">#0f2534</color>
+    <color name="text_orange_color">#ff6600</color>
+    <color name="home_tab_bg_color">#ffefe5</color>
+    <color name="text_xam_color">#5a5a5a</color>
+    <color name="menu_text_orange">#ffcc00</color>
+    <color name="account_top_color">#1b1b1b</color>
+    <color name="text_xam_account">#999999</color>
+    <color name="account_bg">#2c2c2c</color>
+    
+
+</resources>

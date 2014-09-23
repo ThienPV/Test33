@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="refreshandload_footer_loadmoresize">15dp</dimen>
+    <dimen name="slidingmenu_width_cat">230dp</dimen>
+    <dimen name="slidingmenu_height">5dp</dimen>
+    <dimen name="list_padding">5dp</dimen>
+    <dimen name="shadow_width">0dp</dimen>
+    <dimen name="item_list_home_width">112dp</dimen>
+    <dimen name="item_list_home_height">74dp</dimen>
+    
+    
+    <dimen name="item_gallery_home_padding_top">16dp</dimen>
+    <dimen name="item_gallery_home_padding_left">14dp</dimen>
+    <dimen name="height_tab_home">26dp</dimen>
+    <dimen name="gallery_padding">8dp</dimen>
+    <!-- ////////////////// -->
+    <dimen name="item_gallery_home_width">170dp</dimen>
+    <dimen name="item_gallery_home_height">130dp</dimen>
+    <dimen name="item_gallery_home_width_tab">140dp</dimen>
+    <dimen name="item_gridview_size">90dp</dimen>
+    <dimen name="height_banner">44dp</dimen>
+    <dimen name="padding">10.67dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="banner_text_size">16dp</dimen>
+    <dimen name="home_tab_text_size">9.33dp</dimen>
+    <dimen name="home_tab_1_text_size">12dp</dimen>
+    <dimen name="home_tab_no_1_text_size">9.33dp</dimen>
+    <dimen name="menu_header_padding_left">8dp</dimen>
+    <dimen name="menu_header_padding_right">29.33dp</dimen>
+    <dimen name="menu_header_hight">100.67dp</dimen>
+    <dimen name="padding_menu_item">18.67dp</dimen>
+    <dimen name="menu_item_hight">53.33dp</dimen>
+    <dimen name="menu_item_text_hight">17dp</dimen>
+    <dimen name="account_top_hight">156dp</dimen>
+    <dimen name="button_sms_hight">30.67dp</dimen>
+    <dimen name="button_card_hight">40dp</dimen>
+    <dimen name="text_size_nomal">14dp</dimen>
+    <dimen name="text_size_small">12dp</dimen>
+    
+
+</resources>

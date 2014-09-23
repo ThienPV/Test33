@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SMS Chúc mừng sinh nhật</string>
+    <string name="ad_unit_id">ca-app-pub-6514052726401100/8888683079</string>
+    <string name="menu_3_sms_loi_chuc">Tin nhắn tiếng Việt</string>
+    <string name="menu_4_sms_tieng_anh">Tin nhắn tiếng Anh</string>
+    <string name="menu_5_sms_kute">Tin nhắn hình độc đáo</string>
+
+</resources>

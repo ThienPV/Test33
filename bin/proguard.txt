@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:61
+-keep class com.google.ads.AdActivity { <init>(...); }
+
+# view res/layout/layout_admob_auto.xml #generated:7
+-keep class com.google.ads.AdView { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.google.android.gcm.GCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class sms.birthday.chucmung.chucmungsinhnhat.smstinhyeu.happybirthday.ActivityListItem { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class sms.birthday.chucmung.chucmungsinhnhat.smstinhyeu.happybirthday.ActivitySplash { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class sms.birthday.chucmung.chucmungsinhnhat.smstinhyeu.happybirthday.Activity_Date { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class sms.birthday.chucmung.chucmungsinhnhat.smstinhyeu.happybirthday.Activity_SMS_Deatail { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class sms.birthday.chucmung.chucmungsinhnhat.smstinhyeu.happybirthday.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class vn.adflex.ads.AdFlexService { <init>(...); }
+

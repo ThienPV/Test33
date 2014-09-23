@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/title_layout_home" />
+
+    <WebView
+        android:layout_weight="1"
+        android:id="@+id/webview_new"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:background="#ffffff" />
+
+    <include layout="@layout/layout_admob_auto" />
+
+</LinearLayout>
